@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Restaurant Community Board*
+# Web Development Project 1 - *Luxury Restaurant Community Board*
 
 Submitted by: **Kehinde Adeoso**
 
