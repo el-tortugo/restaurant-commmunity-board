@@ -84,7 +84,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Restaurant Brands</h1>
+      <h1>Luxury Restaurant Brands</h1>
       <RestaurantList restaurants={restaurant} /> {/* Use RestaurantList component */}
     </div>
   );
