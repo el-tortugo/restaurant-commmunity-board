@@ -10,8 +10,8 @@ function App() {
       
         "Name": "Ichiraku Ramen",
         "Location": "The Hidden Leaf Village",
-        "Rating": 5, // 
-        "img": "./images/fat-duck-image.jpeg",
+        "Rating": 4.5, // 
+        "img": "./images/ichiraku_ramen-image.webp",
         "link": "https://naruto.fandom.com/wiki/Ramen_Ichiraku"
     },
     {
@@ -25,7 +25,7 @@ function App() {
     {
         "Name": "Baratie",
         "Location": "The East Blue",
-        "Rating": 4.5,  
+        "Rating": 5,  
         "img": "./images/Baratie_Image.webp",
         "link": "https://onepiece.fandom.com/wiki/Baratie"
     },
