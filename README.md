@@ -21,14 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of the implemented required features:
 
-<img src='https://www.loom.com/share/d476f2ca05cd40c7af48a2556ba76e19' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe width="640" height="360" src="https://www.loom.com/embed/d476f2ca05cd40c7af48a2556ba76e19" frameborder="0" allowfullscreen></iframe>
 
-Video created with Loom: https://www.loom.com/
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
+Video created with Loom: [Watch on Loom](https://www.loom.com/)
 
